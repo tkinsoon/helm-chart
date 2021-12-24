@@ -3,12 +3,12 @@ entries:
   cnasg-operator:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-12-24T13:09:03.210556+08:00"
+    created: "2021-12-24T13:34:40.617196+08:00"
     description: A Helm chart for Kubernetes
     digest: b2c4320086ce76a35be51768c767f8ba32e372ad264b7c27ac782c40226cca56
     name: cnasg-operator
     type: application
     urls:
-    - https://github.com/tkinsoon/helm-chart/cnasg-operator-0.1.0.tgz
+    - https://tkinsoon.github.io/helm-chart/cnasg-operator-0.1.0.tgz
     version: 0.1.0
-generated: "2021-12-24T13:09:03.208761+08:00"
+generated: "2021-12-24T13:34:40.616558+08:00"
